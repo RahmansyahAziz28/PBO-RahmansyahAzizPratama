@@ -1,0 +1,12 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "inheritance",
+        "Jobsheet-W04",
+        "Jobsheet-W03/Praktikum03",
+        "Jobsheet-W02",
+        "JOBSHEET W07",
+        "testing"
+    ],
+    "java.project.referencedLibraries": []
+}
